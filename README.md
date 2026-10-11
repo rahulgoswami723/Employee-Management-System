@@ -140,4 +140,5 @@ task2/
 
 ## 📄 License
 
-This project is created for educational purposes under the **Prodigy InfoTech Internship Program**.
+## 📄 License
+Developed as part of Prodigy InfoTech Task 02. Released under the MIT License.
