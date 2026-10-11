@@ -1,0 +1,15 @@
+{
+  "name": "staffpulse-employee-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Employee Management System built with React, Vite, Tailwind CSS, Node.js, Express, and MongoDB",
+  "scripts": {
+    "install:all": "npm --prefix backend install && npm --prefix frontend install",
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "seed": "npm --prefix backend run seed",
+    "start": "npm --prefix backend start"
+  },
+  "keywords": ["employee-management", "mern", "react", "tailwind", "jwt", "mongodb"],
+  "author": "",
+  "license": "MIT"
+}
